@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Oct  5 15:00:52 2024
+# Process ID: 12496
+# Current directory: G:/Mi unidad/Docencia/Catedra/2024-2/IU Digital - SI II/VHDL/combinationalCircuit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11316 G:\Mi unidad\Docencia\Catedra\2024-2\IU Digital - SI II\VHDL\combinationalCircuit\combinationalCircuit.xpr
+# Log file: G:/Mi unidad/Docencia/Catedra/2024-2/IU Digital - SI II/VHDL/combinationalCircuit/vivado.log
+# Journal file: G:/Mi unidad/Docencia/Catedra/2024-2/IU Digital - SI II/VHDL/combinationalCircuit\vivado.jou
+# Running On        :JPRU
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :17002 MB
+# Swap memory       :2684 MB
+# Total Virtual     :19687 MB
+# Available Virtual :8556 MB
+#-----------------------------------------------------------
+start_guioopen_project {G:/Mi unidad/Docencia/Catedra/2024-2/IU Digital - SI II/VHDL/combinationalCircuit/combinationalCircuit.xpr}update_compile_order -fileset sources_1
+

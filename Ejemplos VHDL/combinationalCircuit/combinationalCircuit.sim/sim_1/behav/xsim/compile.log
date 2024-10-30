@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/Mi unidad/Docencia/Catedra/2024-2/IU Digital - SI II/VHDL/combinationalCircuit/combinationalCircuit.srcs/sources_1/new/combinationalCircuit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'combinationalCircuit'
+INFO: [VRFC 10-163] Analyzing VHDL file "G:/Mi unidad/Docencia/Catedra/2024-2/IU Digital - SI II/VHDL/combinationalCircuit/combinationalCircuit.srcs/sim_1/new/S_combinational.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'S_combinational'

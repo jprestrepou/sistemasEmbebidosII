@@ -1,0 +1,93 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Sep 28 09:37:07 2024
+# Process ID: 22632
+# Current directory: C:/Users/jupa_/Desktop/combinationalCircuit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16716 C:\Users\jupa_\Desktop\combinationalCircuit\combinationalCircuit.xpr
+# Log file: C:/Users/jupa_/Desktop/combinationalCircuit/vivado.log
+# Journal file: C:/Users/jupa_/Desktop/combinationalCircuit\vivado.jou
+# Running On        :JPRU
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :17002 MB
+# Swap memory       :4736 MB
+# Total Virtual     :21738 MB
+# Available Virtual :3078 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jupa_/Desktop/combinationalCircuit/combinationalCircuit.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source S_combinational.tcl
+restart
+run all
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+run 5 ns
+restart
+run all
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+close_sim
+launch_simulation
+source S_combinational.tcl
+restart
+run all
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+run 50 ns
+close_sim
